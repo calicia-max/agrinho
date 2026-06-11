@@ -1,4 +1,9 @@
 img{
 
-    width: 200px;
+    width: 400px;
+}
+
+body{
+background-color: rgb(201, 245, 172);
+color: azure;
 }
